@@ -4,7 +4,7 @@
 
 # Miguel Huerta · `M1gu3hb`
 
-### Product Systems Builder · Full-Stack Development · UI Architecture · AI-Orchestrated Engineering
+### Product Systems Builder · Full-Stack Development · UI Architecture · Production Engineering
 
 [![Morphiq](https://img.shields.io/badge/Morphiq-Astral%20Morphiq%20Systems-0A0F1A?style=for-the-badge&logoColor=white)](https://morphiq.com.mx)
 [![GitHub](https://img.shields.io/badge/GitHub-M1gu3hb-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1gu3hb)
@@ -20,7 +20,7 @@ I build **real software systems for real operations**: product interfaces, POS p
 
 My focus is not just making a screen look good. I care about the full path from **business logic → data model → permissions → interface → testing → deployment → production hardening**.
 
-I am currently building under **Morphiq / Astral Morphiq Systems**, with a strong focus on tactile high-fidelity UI, operational software, and AI-assisted engineering workflows.
+I am currently building under **Morphiq / Astral Morphiq Systems**, with a strong focus on tactile high-fidelity UI, operational software, reliable architecture and production-ready systems.
 
 ```text
 problem
@@ -49,7 +49,7 @@ production
 | **Backend + data** | PostgreSQL, Supabase, Auth, RLS, migrations, RPCs, serverless APIs and secure data boundaries |
 | **UI architecture** | Design systems, tactile interfaces, glass / clay / skeuomorphic material systems, component libraries and visual editors |
 | **Production hardening** | Permissions, rate limits, validation, CSP/security headers, database policies, failure handling and deployment discipline |
-| **AI engineering workflow** | Multi-agent task decomposition, coding-agent orchestration, implementation review, audits, context packs and QA loops |
+| **Engineering workflow** | Architecture planning, implementation review, audits, context documentation, regression control and QA loops |
 | **Native / systems experiments** | Rust cores, Dart/Flutter bridges, Python computer vision, Windows tooling and cross-platform prototypes |
 
 ---
@@ -197,27 +197,9 @@ Business software work for a real multi-location operation, combining customer-f
 03. Make security a backend/database property — not a UI illusion.
 04. Prefer explicit states and contracts over hidden magic.
 05. Build systems that survive real users, bad inputs and partial failures.
-06. Use AI as an engineering multiplier, not as a substitute for architecture.
+06. Keep architecture understandable, testable and maintainable.
 07. Ship deliberately. Production is part of the product.
 ```
-
----
-
-## `> ai-workflow`
-
-I use AI coding systems as **specialized engineering agents**, not as a one-shot code generator.
-
-```text
-                           ┌─> implementation agent
-product / problem ─> plan ├─> architecture + data review
-                           ├─> security / regression audit
-                           ├─> UI / interaction review
-                           └─> QA + production verification
-```
-
-Typical workflow: **context pack → scoped task → implementation → independent audit → targeted correction → verification → release**.
-
-Tools vary by task and include **Claude Code, OpenAI Codex, Cursor, Gemini, GitHub and local engineering tooling**.
 
 ---
 
