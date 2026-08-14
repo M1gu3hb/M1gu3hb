@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/morphiq-logo.svg" width="230" alt="Morphiq logo mark" />
+<img src="./assets/morphiq-logo.png" width="230" alt="Morphiq logo mark" />
 
 <br/>
 
@@ -218,7 +218,7 @@ Business software work for a real multi-location operation, combining customer-f
 
 <div align="center">
 
-<img src="./assets/morphiq-logo.svg" width="120" alt="Morphiq mark" />
+<img src="./assets/morphiq-logo.png" width="120" alt="Morphiq mark" />
 
 ### `BUILD → HARDEN → SHIP → ITERATE`
 
