@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="./assets/morphiq-logo.png" width="230" alt="Morphiq logo mark" />
-
-<br/>
-
 <img src="./assets/morphiq-terminal.svg" width="100%" alt="Morphiq ASCII boot animation" />
+
+</div>
+
+## `> stack --all`
+
+<img src="./assets/stack-languages.svg" width="100%" alt="Languages: TypeScript, JavaScript, SQL, Python, Rust, Dart, HTML5, CSS3, Bash, PowerShell" />
+
+<img src="./assets/stack-frontend.svg" width="100%" alt="Frontend / Product UI: React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Flutter" />
+
+<img src="./assets/stack-backend.svg" width="100%" alt="Backend / Data / Infrastructure: Supabase, PostgreSQL, Node.js, Vercel, GitHub Actions" />
+
+<img src="./assets/stack-tooling.svg" width="100%" alt="Computer Vision / Engineering Tooling: OpenCV, MediaPipe, Git, npm" />
+
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
+
+<div align="center">
 
 # Miguel Huerta · `M1gu3hb`
 
@@ -55,56 +67,6 @@ production
 | **Production hardening** | Permissions, rate limits, validation, CSP/security headers, database policies, failure handling and deployment discipline |
 | **Engineering workflow** | Architecture planning, implementation review, audits, context documentation, regression control and QA loops |
 | **Native / systems experiments** | Rust cores, Dart/Flutter bridges, Python computer vision, Windows tooling and cross-platform prototypes |
-
-<img src="./assets/divider.svg" width="100%" height="26" alt="" />
-
-## `> stack --languages`
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Rust-0B1220?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0B1220?style=for-the-badge&logo=dart&logoColor=0175C2" />
-  <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Bash-0B1220?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-0B1220?style=for-the-badge&logo=powershell&logoColor=5391FE" />
-</p>
-
-### Frontend / Product UI
-
-<p>
-  <img src="https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-07111F?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-07111F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Framer_Motion-07111F?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-07111F?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-07111F?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
-</p>
-
-### Backend / Data / Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-06130F?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
-  <img src="https://img.shields.io/badge/PostgreSQL-06130F?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Node.js-06130F?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Vercel-06130F?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-06130F?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-</p>
-
-### Computer Vision / Engineering Tooling
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-101018?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-  <img src="https://img.shields.io/badge/MediaPipe-101018?style=for-the-badge&logo=google&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Git-101018?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/npm-101018?style=for-the-badge&logo=npm&logoColor=CB3837" />
-</p>
 
 <img src="./assets/divider.svg" width="100%" height="26" alt="" />
 

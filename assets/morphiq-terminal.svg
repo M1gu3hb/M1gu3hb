@@ -31,75 +31,75 @@
       .cursor { animation: blink 0.85s steps(1) infinite; }
       @keyframes blink {0%,48%{opacity:1}49%,100%{opacity:0}}
 
-      @keyframes b1 {0%,1%{opacity:0}2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes b2 {0%,5%{opacity:0}6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes b3 {0%,9%{opacity:0}10%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd0 {0%,15.0%{opacity:0}16.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd1 {0%,15.7%{opacity:0}16.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd2 {0%,16.3%{opacity:0}17.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd3 {0%,17.0%{opacity:0}18.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd4 {0%,17.6%{opacity:0}18.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd5 {0%,18.3%{opacity:0}19.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd6 {0%,18.9%{opacity:0}19.9%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd7 {0%,19.6%{opacity:0}20.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd8 {0%,20.2%{opacity:0}21.2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd9 {0%,20.9%{opacity:0}21.9%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd10 {0%,21.5%{opacity:0}22.5%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd11 {0%,22.2%{opacity:0}23.2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd12 {0%,22.8%{opacity:0}23.8%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd13 {0%,23.5%{opacity:0}24.5%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd14 {0%,24.1%{opacity:0}25.1%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd15 {0%,24.8%{opacity:0}25.8%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd16 {0%,25.4%{opacity:0}26.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd17 {0%,26.1%{opacity:0}27.1%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd18 {0%,26.7%{opacity:0}27.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd19 {0%,27.4%{opacity:0}28.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd20 {0%,28.0%{opacity:0}29.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd21 {0%,28.7%{opacity:0}29.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd22 {0%,29.3%{opacity:0}30.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd23 {0%,30.0%{opacity:0}31.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd24 {0%,30.7%{opacity:0}31.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd25 {0%,31.299999999999997%{opacity:0}32.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd26 {0%,32.0%{opacity:0}33.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd27 {0%,32.6%{opacity:0}33.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd28 {0%,33.3%{opacity:0}34.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd29 {0%,33.9%{opacity:0}34.9%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd30 {0%,34.6%{opacity:0}35.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd31 {0%,35.2%{opacity:0}36.2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd32 {0%,35.9%{opacity:0}36.9%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd33 {0%,36.5%{opacity:0}37.5%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd34 {0%,37.2%{opacity:0}38.2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd35 {0%,37.8%{opacity:0}38.8%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd36 {0%,38.5%{opacity:0}39.5%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd37 {0%,39.1%{opacity:0}40.1%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd38 {0%,39.8%{opacity:0}40.8%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd39 {0%,40.4%{opacity:0}41.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd40 {0%,41.1%{opacity:0}42.1%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd41 {0%,41.7%{opacity:0}42.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd42 {0%,42.4%{opacity:0}43.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd43 {0%,43.0%{opacity:0}44.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd44 {0%,43.7%{opacity:0}44.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd45 {0%,44.3%{opacity:0}45.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes rd46 {0%,45.0%{opacity:0}46.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes sq1 {0%,47%{opacity:0}48%,92%{opacity:1}100%{opacity:0}}
-      @keyframes sq2 {0%,49%{opacity:0}50%,92%{opacity:1}100%{opacity:0}}
-      @keyframes sq3 {0%,51%{opacity:0}52%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh0 {0%,53.0%{opacity:0}54.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh1 {0%,54.7%{opacity:0}55.7%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh2 {0%,56.4%{opacity:0}57.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh3 {0%,58.1%{opacity:0}59.1%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh4 {0%,59.9%{opacity:0}60.9%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh5 {0%,61.6%{opacity:0}62.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh6 {0%,63.3%{opacity:0}64.3%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mh7 {0%,65.0%{opacity:0}66.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq0 {0%,67.0%{opacity:0}68.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq1 {0%,69.4%{opacity:0}70.4%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq2 {0%,71.8%{opacity:0}72.8%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq3 {0%,74.2%{opacity:0}75.2%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq4 {0%,76.6%{opacity:0}77.6%,92%{opacity:1}100%{opacity:0}}
-      @keyframes mq5 {0%,79.0%{opacity:0}80.0%,92%{opacity:1}100%{opacity:0}}
-      @keyframes tag {0%,82%{opacity:0}83%,92%{opacity:1}100%{opacity:0}}
-      @keyframes prompt {0%,86%{opacity:0}87%,92%{opacity:1}100%{opacity:0}}
+      @keyframes b1 {0%,0.71%{opacity:0}1.43%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes b2 {0%,3.56%{opacity:0}4.28%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes b3 {0%,6.41%{opacity:0}7.13%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd0 {0%,10.69%{opacity:0}11.4%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd1 {0%,11.19%{opacity:0}11.9%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd2 {0%,11.62%{opacity:0}12.33%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd3 {0%,12.11%{opacity:0}12.83%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd4 {0%,12.54%{opacity:0}13.26%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd5 {0%,13.04%{opacity:0}13.75%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd6 {0%,13.47%{opacity:0}14.18%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd7 {0%,13.97%{opacity:0}14.68%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd8 {0%,14.4%{opacity:0}15.11%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd9 {0%,14.89%{opacity:0}15.61%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd10 {0%,15.32%{opacity:0}16.03%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd11 {0%,15.82%{opacity:0}16.53%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd12 {0%,16.25%{opacity:0}16.96%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd13 {0%,16.75%{opacity:0}17.46%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd14 {0%,17.17%{opacity:0}17.89%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd15 {0%,17.67%{opacity:0}18.39%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd16 {0%,18.1%{opacity:0}18.81%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd17 {0%,18.6%{opacity:0}19.31%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd18 {0%,19.03%{opacity:0}19.74%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd19 {0%,19.53%{opacity:0}20.24%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd20 {0%,19.95%{opacity:0}20.67%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd21 {0%,20.45%{opacity:0}21.17%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd22 {0%,20.88%{opacity:0}21.59%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd23 {0%,21.38%{opacity:0}22.09%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd24 {0%,21.88%{opacity:0}22.59%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd25 {0%,22.31%{opacity:0}23.02%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd26 {0%,22.8%{opacity:0}23.52%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd27 {0%,23.23%{opacity:0}23.94%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd28 {0%,23.73%{opacity:0}24.44%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd29 {0%,24.16%{opacity:0}24.87%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd30 {0%,24.66%{opacity:0}25.37%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd31 {0%,25.09%{opacity:0}25.8%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd32 {0%,25.58%{opacity:0}26.3%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd33 {0%,26.01%{opacity:0}26.72%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd34 {0%,26.51%{opacity:0}27.22%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd35 {0%,26.94%{opacity:0}27.65%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd36 {0%,27.44%{opacity:0}28.15%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd37 {0%,27.86%{opacity:0}28.58%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd38 {0%,28.36%{opacity:0}29.08%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd39 {0%,28.79%{opacity:0}29.5%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd40 {0%,29.29%{opacity:0}30.0%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd41 {0%,29.72%{opacity:0}30.43%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd42 {0%,30.22%{opacity:0}30.93%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd43 {0%,30.64%{opacity:0}31.36%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd44 {0%,31.14%{opacity:0}31.86%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd45 {0%,31.57%{opacity:0}32.28%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes rd46 {0%,32.07%{opacity:0}32.78%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes sq1 {0%,33.49%{opacity:0}34.21%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes sq2 {0%,34.92%{opacity:0}35.63%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes sq3 {0%,36.34%{opacity:0}37.06%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh0 {0%,37.77%{opacity:0}38.48%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh1 {0%,38.98%{opacity:0}39.69%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh2 {0%,40.19%{opacity:0}40.91%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh3 {0%,41.4%{opacity:0}42.12%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh4 {0%,42.69%{opacity:0}43.4%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh5 {0%,43.9%{opacity:0}44.61%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh6 {0%,45.11%{opacity:0}45.82%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mh7 {0%,46.32%{opacity:0}47.03%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq0 {0%,47.75%{opacity:0}48.46%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq1 {0%,49.46%{opacity:0}50.17%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq2 {0%,51.17%{opacity:0}51.88%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq3 {0%,52.88%{opacity:0}53.59%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq4 {0%,54.59%{opacity:0}55.3%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes mq5 {0%,56.3%{opacity:0}57.01%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes tag {0%,58.44%{opacity:0}59.15%,96.0%{opacity:1}100%{opacity:0}}
+      @keyframes prompt {0%,61.29%{opacity:0}62.0%,96.0%{opacity:1}100%{opacity:0}}
     </style>
   </defs>
 <rect x="1" y="1" width="1178" height="858" rx="24" fill="url(#bg)" stroke="#1a3958" stroke-width="2"/>
@@ -108,74 +108,74 @@
 <rect x="1" y="29" width="1178" height="22" fill="#0b1625"/>
 <circle cx="29" cy="25" r="7" fill="#ff5f57"/><circle cx="53" cy="25" r="7" fill="#febc2e"/><circle cx="77" cy="25" r="7" fill="#28c840"/>
 <text x="590" y="31" text-anchor="middle" class="mono dim" font-size="15">morphiq://profile/ascii-form</text>
-<g style="animation: b1 16s linear infinite;"><text x="38" y="82" class="mono white" font-size="17">$ morphiq init --profile M1gu3hb</text></g>
-<g style="animation: b2 16s linear infinite;"><text x="38" y="108" class="mono dim" font-size="15">[OK] identity loaded  ·  systems online  ·  building from Mexico</text></g>
-<g style="animation: b3 16s linear infinite;"><text x="38" y="134" class="mono dim" font-size="15">[OK] full-stack · product systems · UI architecture · AI orchestration</text></g>
+<g style="animation: b1 11s linear infinite;"><text x="38" y="82" class="mono white" font-size="17">$ morphiq init --profile M1gu3hb</text></g>
+<g style="animation: b2 11s linear infinite;"><text x="38" y="108" class="mono dim" font-size="15">[OK] identity loaded  ·  systems online  ·  building from Mexico</text></g>
+<g style="animation: b3 11s linear infinite;"><text x="38" y="134" class="mono dim" font-size="15">[OK] full-stack · product systems · UI architecture · AI orchestration</text></g>
 <text x="150" y="175" class="mono dim" font-size="14">$ render --emblem --mode=ascii-ring</text>
-<circle cx="701.1" cy="415.1" r="4.6" class="ringc" style="animation: rd0 16s linear infinite;"/>
-<circle cx="688.9" cy="425.8" r="4.6" class="ringc" style="animation: rd1 16s linear infinite;"/>
-<circle cx="675.6" cy="435.2" r="4.6" class="ringc" style="animation: rd2 16s linear infinite;"/>
-<circle cx="661.4" cy="443.2" r="4.6" class="ringc" style="animation: rd3 16s linear infinite;"/>
-<circle cx="646.5" cy="449.7" r="4.6" class="ringc" style="animation: rd4 16s linear infinite;"/>
-<circle cx="631.1" cy="454.6" r="4.6" class="ringc" style="animation: rd5 16s linear infinite;"/>
-<circle cx="615.1" cy="458.0" r="4.6" class="ringc" style="animation: rd6 16s linear infinite;"/>
-<circle cx="599.0" cy="459.7" r="4.6" class="ringc" style="animation: rd7 16s linear infinite;"/>
-<circle cx="582.7" cy="459.8" r="4.6" class="ringc" style="animation: rd8 16s linear infinite;"/>
-<circle cx="566.5" cy="458.3" r="4.6" class="ringc" style="animation: rd9 16s linear infinite;"/>
-<circle cx="550.6" cy="455.1" r="4.6" class="ringc" style="animation: rd10 16s linear infinite;"/>
-<circle cx="535.0" cy="450.3" r="4.6" class="ringc" style="animation: rd11 16s linear infinite;"/>
-<circle cx="520.1" cy="443.9" r="4.6" class="ringc" style="animation: rd12 16s linear infinite;"/>
-<circle cx="505.8" cy="436.1" r="4.6" class="ringc" style="animation: rd13 16s linear infinite;"/>
-<circle cx="492.5" cy="426.8" r="4.6" class="ringc" style="animation: rd14 16s linear infinite;"/>
-<circle cx="480.1" cy="416.3" r="4.6" class="ringc" style="animation: rd15 16s linear infinite;"/>
-<circle cx="468.8" cy="404.5" r="4.6" class="ringc" style="animation: rd16 16s linear infinite;"/>
-<circle cx="458.9" cy="391.7" r="4.6" class="ringc" style="animation: rd17 16s linear infinite;"/>
-<circle cx="450.2" cy="377.9" r="4.6" class="ringc" style="animation: rd18 16s linear infinite;"/>
-<circle cx="443.1" cy="363.3" r="4.6" class="ringc" style="animation: rd19 16s linear infinite;"/>
-<circle cx="437.4" cy="348.1" r="4.6" class="ringc" style="animation: rd20 16s linear infinite;"/>
-<circle cx="433.3" cy="332.3" r="4.6" class="ringc" style="animation: rd21 16s linear infinite;"/>
-<circle cx="430.8" cy="316.2" r="4.6" class="ringc" style="animation: rd22 16s linear infinite;"/>
-<circle cx="430.0" cy="300.0" r="4.6" class="ringc" style="animation: rd23 16s linear infinite;"/>
-<circle cx="430.8" cy="283.8" r="4.6" class="ringc" style="animation: rd24 16s linear infinite;"/>
-<circle cx="433.3" cy="267.7" r="4.6" class="ringc" style="animation: rd25 16s linear infinite;"/>
-<circle cx="437.4" cy="251.9" r="4.6" class="ringc" style="animation: rd26 16s linear infinite;"/>
-<circle cx="443.1" cy="236.7" r="4.6" class="ringc" style="animation: rd27 16s linear infinite;"/>
-<circle cx="450.2" cy="222.1" r="4.6" class="ringc" style="animation: rd28 16s linear infinite;"/>
-<circle cx="458.9" cy="208.3" r="4.6" class="ringc" style="animation: rd29 16s linear infinite;"/>
-<circle cx="468.8" cy="195.5" r="4.6" class="ringc" style="animation: rd30 16s linear infinite;"/>
-<circle cx="480.1" cy="183.7" r="4.6" class="ringc" style="animation: rd31 16s linear infinite;"/>
-<circle cx="492.5" cy="173.2" r="4.6" class="ringc" style="animation: rd32 16s linear infinite;"/>
-<circle cx="505.8" cy="163.9" r="4.6" class="ringc" style="animation: rd33 16s linear infinite;"/>
-<circle cx="520.1" cy="156.1" r="4.6" class="ringc" style="animation: rd34 16s linear infinite;"/>
-<circle cx="535.0" cy="149.7" r="4.6" class="ringc" style="animation: rd35 16s linear infinite;"/>
-<circle cx="550.6" cy="144.9" r="4.6" class="ringc" style="animation: rd36 16s linear infinite;"/>
-<circle cx="566.5" cy="141.7" r="4.6" class="ringc" style="animation: rd37 16s linear infinite;"/>
-<circle cx="582.7" cy="140.2" r="4.6" class="ringc" style="animation: rd38 16s linear infinite;"/>
-<circle cx="599.0" cy="140.3" r="4.6" class="ringc" style="animation: rd39 16s linear infinite;"/>
-<circle cx="615.1" cy="142.0" r="4.6" class="ringc" style="animation: rd40 16s linear infinite;"/>
-<circle cx="631.1" cy="145.4" r="4.6" class="ringc" style="animation: rd41 16s linear infinite;"/>
-<circle cx="646.5" cy="150.3" r="4.6" class="ringc" style="animation: rd42 16s linear infinite;"/>
-<circle cx="661.4" cy="156.8" r="4.6" class="ringc" style="animation: rd43 16s linear infinite;"/>
-<circle cx="675.6" cy="164.8" r="4.6" class="ringc" style="animation: rd44 16s linear infinite;"/>
-<circle cx="688.9" cy="174.2" r="4.6" class="ringc" style="animation: rd45 16s linear infinite;"/>
-<circle cx="701.1" cy="184.9" r="4.6" class="ringc" style="animation: rd46 16s linear infinite;"/>
-<rect x="748.5" y="138.5" width="13" height="13" rx="2" class="ringc" style="animation: sq1 16s linear infinite;"/>
-<rect x="705.0" y="175.0" width="10" height="10" rx="2" class="ringc" style="animation: sq2 16s linear infinite;"/>
-<rect x="756.0" y="201.0" width="8" height="8" rx="2" class="ringc" style="animation: sq3 16s linear infinite;"/>
-<text x="590" y="204.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh0 16s linear infinite;">╭────────────────────────────────────╮</text>
-<text x="590" y="234.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh1 16s linear infinite;">│        ███╗   ███╗ ██╗  ██╗       │</text>
-<text x="590" y="264.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh2 16s linear infinite;">│        ████╗ ████║ ██║  ██║       │</text>
-<text x="590" y="294.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh3 16s linear infinite;">│        ██╔████╔██║ ███████║       │</text>
-<text x="590" y="324.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh4 16s linear infinite;">│        ██║╚██╔╝██║ ██╔══██║       │</text>
-<text x="590" y="354.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh5 16s linear infinite;">│        ██║ ╚═╝ ██║ ██║  ██║       │</text>
-<text x="590" y="384.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh6 16s linear infinite;">│        ╚═╝     ╚═╝ ╚═╝  ╚═╝       │</text>
-<text x="590" y="414.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh7 16s linear infinite;">╰────────────────────────────────────╯</text>
-<text x="590" y="560" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq0 16s linear infinite;">███╗   ███╗ ██████╗ ██████╗ ██████╗ ██╗  ██╗██╗ ██████╗ </text>
-<text x="590" y="590" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq1 16s linear infinite;">████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██║  ██║██║██╔═══██╗</text>
-<text x="590" y="620" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq2 16s linear infinite;">██╔████╔██║██║   ██║██████╔╝██████╔╝███████║██║██║   ██║</text>
-<text x="590" y="650" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq3 16s linear infinite;">██║╚██╔╝██║██║   ██║██╔══██╗██╔═══╝ ██╔══██║██║██║▄▄ ██║</text>
-<text x="590" y="680" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq4 16s linear infinite;">██║ ╚═╝ ██║╚██████╔╝██║  ██║██║     ██║  ██║██║╚██████╔╝</text>
-<text x="590" y="710" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq5 16s linear infinite;">╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚══▀▀═╝ </text>
-<text x="590" y="760" text-anchor="middle" class="mono white" font-size="15" letter-spacing="8" style="animation: tag 16s linear infinite;">ASTRAL MORPHIQ SYSTEMS</text>
-<g style="animation: prompt 16s linear infinite;"><text x="38" y="800" class="mono dim" font-size="16">$ ship systems that work in the real world<tspan class="cursor">_</tspan></text></g>
+<circle cx="701.1" cy="415.1" r="4.6" class="ringc" style="animation: rd0 11s linear infinite;"/>
+<circle cx="688.9" cy="425.8" r="4.6" class="ringc" style="animation: rd1 11s linear infinite;"/>
+<circle cx="675.6" cy="435.2" r="4.6" class="ringc" style="animation: rd2 11s linear infinite;"/>
+<circle cx="661.4" cy="443.2" r="4.6" class="ringc" style="animation: rd3 11s linear infinite;"/>
+<circle cx="646.5" cy="449.7" r="4.6" class="ringc" style="animation: rd4 11s linear infinite;"/>
+<circle cx="631.1" cy="454.6" r="4.6" class="ringc" style="animation: rd5 11s linear infinite;"/>
+<circle cx="615.1" cy="458.0" r="4.6" class="ringc" style="animation: rd6 11s linear infinite;"/>
+<circle cx="599.0" cy="459.7" r="4.6" class="ringc" style="animation: rd7 11s linear infinite;"/>
+<circle cx="582.7" cy="459.8" r="4.6" class="ringc" style="animation: rd8 11s linear infinite;"/>
+<circle cx="566.5" cy="458.3" r="4.6" class="ringc" style="animation: rd9 11s linear infinite;"/>
+<circle cx="550.6" cy="455.1" r="4.6" class="ringc" style="animation: rd10 11s linear infinite;"/>
+<circle cx="535.0" cy="450.3" r="4.6" class="ringc" style="animation: rd11 11s linear infinite;"/>
+<circle cx="520.1" cy="443.9" r="4.6" class="ringc" style="animation: rd12 11s linear infinite;"/>
+<circle cx="505.8" cy="436.1" r="4.6" class="ringc" style="animation: rd13 11s linear infinite;"/>
+<circle cx="492.5" cy="426.8" r="4.6" class="ringc" style="animation: rd14 11s linear infinite;"/>
+<circle cx="480.1" cy="416.3" r="4.6" class="ringc" style="animation: rd15 11s linear infinite;"/>
+<circle cx="468.8" cy="404.5" r="4.6" class="ringc" style="animation: rd16 11s linear infinite;"/>
+<circle cx="458.9" cy="391.7" r="4.6" class="ringc" style="animation: rd17 11s linear infinite;"/>
+<circle cx="450.2" cy="377.9" r="4.6" class="ringc" style="animation: rd18 11s linear infinite;"/>
+<circle cx="443.1" cy="363.3" r="4.6" class="ringc" style="animation: rd19 11s linear infinite;"/>
+<circle cx="437.4" cy="348.1" r="4.6" class="ringc" style="animation: rd20 11s linear infinite;"/>
+<circle cx="433.3" cy="332.3" r="4.6" class="ringc" style="animation: rd21 11s linear infinite;"/>
+<circle cx="430.8" cy="316.2" r="4.6" class="ringc" style="animation: rd22 11s linear infinite;"/>
+<circle cx="430.0" cy="300.0" r="4.6" class="ringc" style="animation: rd23 11s linear infinite;"/>
+<circle cx="430.8" cy="283.8" r="4.6" class="ringc" style="animation: rd24 11s linear infinite;"/>
+<circle cx="433.3" cy="267.7" r="4.6" class="ringc" style="animation: rd25 11s linear infinite;"/>
+<circle cx="437.4" cy="251.9" r="4.6" class="ringc" style="animation: rd26 11s linear infinite;"/>
+<circle cx="443.1" cy="236.7" r="4.6" class="ringc" style="animation: rd27 11s linear infinite;"/>
+<circle cx="450.2" cy="222.1" r="4.6" class="ringc" style="animation: rd28 11s linear infinite;"/>
+<circle cx="458.9" cy="208.3" r="4.6" class="ringc" style="animation: rd29 11s linear infinite;"/>
+<circle cx="468.8" cy="195.5" r="4.6" class="ringc" style="animation: rd30 11s linear infinite;"/>
+<circle cx="480.1" cy="183.7" r="4.6" class="ringc" style="animation: rd31 11s linear infinite;"/>
+<circle cx="492.5" cy="173.2" r="4.6" class="ringc" style="animation: rd32 11s linear infinite;"/>
+<circle cx="505.8" cy="163.9" r="4.6" class="ringc" style="animation: rd33 11s linear infinite;"/>
+<circle cx="520.1" cy="156.1" r="4.6" class="ringc" style="animation: rd34 11s linear infinite;"/>
+<circle cx="535.0" cy="149.7" r="4.6" class="ringc" style="animation: rd35 11s linear infinite;"/>
+<circle cx="550.6" cy="144.9" r="4.6" class="ringc" style="animation: rd36 11s linear infinite;"/>
+<circle cx="566.5" cy="141.7" r="4.6" class="ringc" style="animation: rd37 11s linear infinite;"/>
+<circle cx="582.7" cy="140.2" r="4.6" class="ringc" style="animation: rd38 11s linear infinite;"/>
+<circle cx="599.0" cy="140.3" r="4.6" class="ringc" style="animation: rd39 11s linear infinite;"/>
+<circle cx="615.1" cy="142.0" r="4.6" class="ringc" style="animation: rd40 11s linear infinite;"/>
+<circle cx="631.1" cy="145.4" r="4.6" class="ringc" style="animation: rd41 11s linear infinite;"/>
+<circle cx="646.5" cy="150.3" r="4.6" class="ringc" style="animation: rd42 11s linear infinite;"/>
+<circle cx="661.4" cy="156.8" r="4.6" class="ringc" style="animation: rd43 11s linear infinite;"/>
+<circle cx="675.6" cy="164.8" r="4.6" class="ringc" style="animation: rd44 11s linear infinite;"/>
+<circle cx="688.9" cy="174.2" r="4.6" class="ringc" style="animation: rd45 11s linear infinite;"/>
+<circle cx="701.1" cy="184.9" r="4.6" class="ringc" style="animation: rd46 11s linear infinite;"/>
+<rect x="748.5" y="138.5" width="13" height="13" rx="2" class="ringc" style="animation: sq1 11s linear infinite;"/>
+<rect x="705.0" y="175.0" width="10" height="10" rx="2" class="ringc" style="animation: sq2 11s linear infinite;"/>
+<rect x="756.0" y="201.0" width="8" height="8" rx="2" class="ringc" style="animation: sq3 11s linear infinite;"/>
+<text x="590" y="204.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh0 11s linear infinite;">╭────────────────────────────────────╮</text>
+<text x="590" y="234.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh1 11s linear infinite;">│        ███╗   ███╗ ██╗  ██╗       │</text>
+<text x="590" y="264.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh2 11s linear infinite;">│        ████╗ ████║ ██║  ██║       │</text>
+<text x="590" y="294.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh3 11s linear infinite;">│        ██╔████╔██║ ███████║       │</text>
+<text x="590" y="324.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh4 11s linear infinite;">│        ██║╚██╔╝██║ ██╔══██║       │</text>
+<text x="590" y="354.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh5 11s linear infinite;">│        ██║ ╚═╝ ██║ ██║  ██║       │</text>
+<text x="590" y="384.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh6 11s linear infinite;">│        ╚═╝     ╚═╝ ╚═╝  ╚═╝       │</text>
+<text x="590" y="414.0" text-anchor="middle" class="mono blue" font-size="27" font-weight="700" style="animation: mh7 11s linear infinite;">╰────────────────────────────────────╯</text>
+<text x="590" y="560" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq0 11s linear infinite;">███╗   ███╗ ██████╗ ██████╗ ██████╗ ██╗  ██╗██╗ ██████╗ </text>
+<text x="590" y="590" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq1 11s linear infinite;">████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██║  ██║██║██╔═══██╗</text>
+<text x="590" y="620" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq2 11s linear infinite;">██╔████╔██║██║   ██║██████╔╝██████╔╝███████║██║██║   ██║</text>
+<text x="590" y="650" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq3 11s linear infinite;">██║╚██╔╝██║██║   ██║██╔══██╗██╔═══╝ ██╔══██║██║██║▄▄ ██║</text>
+<text x="590" y="680" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq4 11s linear infinite;">██║ ╚═╝ ██║╚██████╔╝██║  ██║██║     ██║  ██║██║╚██████╔╝</text>
+<text x="590" y="710" text-anchor="middle" class="mono blueflat" font-size="27" style="animation: mq5 11s linear infinite;">╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚══▀▀═╝ </text>
+<text x="590" y="760" text-anchor="middle" class="mono white" font-size="15" letter-spacing="8" style="animation: tag 11s linear infinite;">ASTRAL MORPHIQ SYSTEMS</text>
+<g style="animation: prompt 11s linear infinite;"><text x="38" y="800" class="mono dim" font-size="16">$ ship systems that work in the real world<tspan class="cursor">_</tspan></text></g>
 </svg>
