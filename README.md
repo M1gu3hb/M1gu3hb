@@ -16,7 +16,14 @@
 
 <img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
-<div align="center">
+<table>
+<tr>
+<td width="40%" valign="middle">
+
+<img src="./assets/miguel-ascii.svg" width="100%" alt="ASCII portrait of Miguel Huerta, printed line by line" />
+
+</td>
+<td width="60%" valign="middle">
 
 # Miguel Huerta · `M1gu3hb`
 
@@ -26,7 +33,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-M1gu3hb-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1gu3hb)
 [![Status](https://img.shields.io/badge/STATUS-BUILDING%20%2F%20SHIPPING-0B65D8?style=for-the-badge)](https://github.com/M1gu3hb?tab=repositories)
 
-</div>
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
