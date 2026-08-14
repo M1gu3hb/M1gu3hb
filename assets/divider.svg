@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 26" width="100%" height="26" role="img" aria-label="">
+  <defs>
+    <linearGradient id="lineFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1c86ff" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#1c86ff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#7fd0ff" stop-opacity="0.9"/>
+      <stop offset="0.88" stop-color="#1c86ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#1c86ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="markGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7fd0ff"/>
+      <stop offset="1" stop-color="#0b65d8"/>
+    </linearGradient>
+    <filter id="dividerGlow" x="-60%" y="-200%" width="220%" height="500%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="12" width="1200" height="2" fill="url(#lineFade)"/>
+
+  <g filter="url(#dividerGlow)">
+    <rect x="564" y="9" width="8" height="8" rx="2" transform="rotate(45 568 13)" fill="url(#markGrad)"/>
+    <circle cx="536" cy="13" r="2.4" fill="#1c86ff" opacity="0.85"/>
+    <circle cx="600" cy="13" r="2.4" fill="#1c86ff" opacity="0.85"/>
+  </g>
+</svg>

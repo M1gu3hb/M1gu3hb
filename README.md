@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/morphiq-terminal.svg" width="100%" alt="Morphiq terminal boot animation" />
+<img src="./assets/morphiq-logo.svg" width="230" alt="Morphiq logo mark" />
+
+<br/>
+
+<img src="./assets/morphiq-terminal.svg" width="100%" alt="Morphiq ASCII boot animation" />
 
 # Miguel Huerta · `M1gu3hb`
 
@@ -12,7 +16,7 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> whoami`
 
@@ -38,7 +42,7 @@ tests / hardening / deployment
 production
 ```
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> specialization --verbose`
 
@@ -52,7 +56,7 @@ production
 | **Engineering workflow** | Architecture planning, implementation review, audits, context documentation, regression control and QA loops |
 | **Native / systems experiments** | Rust cores, Dart/Flutter bridges, Python computer vision, Windows tooling and cross-platform prototypes |
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> stack --languages`
 
@@ -102,7 +106,7 @@ production
   <img src="https://img.shields.io/badge/npm-101018?style=for-the-badge&logo=npm&logoColor=CB3837" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> projects --featured`
 
@@ -187,7 +191,7 @@ Business software work for a real multi-location operation, combining customer-f
 
 > Some production/client systems stay private or intentionally expose only the parts that are safe to publish.
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> engineering-principles`
 
@@ -201,7 +205,7 @@ Business software work for a real multi-location operation, combining customer-f
 07. Ship deliberately. Production is part of the product.
 ```
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 ## `> github --stats`
 
@@ -210,9 +214,11 @@ Business software work for a real multi-location operation, combining customer-f
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3hb&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="M1gu3hb top languages" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="26" alt="" />
 
 <div align="center">
+
+<img src="./assets/morphiq-logo.svg" width="120" alt="Morphiq mark" />
 
 ### `BUILD → HARDEN → SHIP → ITERATE`
 
